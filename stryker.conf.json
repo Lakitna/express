@@ -1,0 +1,10 @@
+{
+  "testRunner": "mocha",
+  "coverageAnalysis": "perTest",
+  "reporters": [
+    "html",
+    "progress",
+    "json"
+  ],
+  "ignoreStatic": true
+}
